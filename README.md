@@ -160,4 +160,3 @@ Ranking by overall performance: **Video > Stories > Carousel > Image**. Shifting
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Het%20Ladani-blue?logo=linkedin)](https://linkedin.com/in/het-ladani-5001bb29a/)
 [![GitHub](https://img.shields.io/badge/GitHub-ladanihet2410-black?logo=github)](https://github.com/ladanihet2410)
-[![Email](https://img.shields.io/badge/Email-ladanihet2410%40gmail.com-red?logo=gmail)](mailto:ladanihet2410@gmail.com)
